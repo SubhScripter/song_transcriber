@@ -35,4 +35,5 @@ streamlit run app.py
 
 3. Wait for the transcription to complete.
 4. View the transcribed text in the text area.
-![Uploading image.png…]()
+![image](https://github.com/SubhScripter/song_transcriber/assets/142106447/0f9fae49-563c-4de0-8c15-87f42e0cce0f)
+
